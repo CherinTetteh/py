@@ -1,2 +1,2 @@
 # py
-Python codes
+Python codes for learning
